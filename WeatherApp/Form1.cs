@@ -16,7 +16,7 @@ namespace WeatherApp
     public partial class Form1 : Form
     {
         private HttpClient httpClient = new HttpClient();
-        private string apiKey = "6bbbde1b82a63032db609d93918ea696";
+        private string apiKey = Token.ApiKey;
         private string apiUrl;
 
         public Form1()

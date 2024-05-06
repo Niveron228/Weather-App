@@ -69,15 +69,5 @@ namespace WeatherApp.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Знімок_екрана_2024_04_21_о_18_07_50 {
-            get {
-                object obj = ResourceManager.GetObject("Знімок екрана 2024-04-21 о 18.07.50", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
     }
 }

@@ -105,6 +105,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Token.cs" />
     <Compile Include="Variables.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -138,9 +139,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="bin\Debug\Pics\c8ce1331ddbdc9de29183b62ad990aaa.jpeg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\Pics\Знімок екрана 2024-04-21 о 18.07.50.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
